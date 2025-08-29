@@ -42,7 +42,8 @@ Currently focused on:
 ## 🧩 Competitive Programming  
 
 ### 🚀 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/prakashpandian/?theme=dark&font=Karma&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakashpandian?theme=dark&font=Karma&ext=heatmap)
+  
 
 
 
