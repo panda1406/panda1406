@@ -1,45 +1,58 @@
 # Hi there 👋, I'm Prakash Pandian  
 
-🚀 **Aspiring Ethical Hacker | Full-Stack Developer | Tech Entrepreneur**  
+🚀 **Full-Stack Developer | Aspiring Ethical Hacker | Tech Entrepreneur**  
 
-I’m passionate about building secure, scalable, and innovative software solutions. My journey combines **full-stack development**, **networking & cybersecurity learning**, and **entrepreneurship**. Currently exploring advanced **Linux, Networking, and Ethical Hacking** while building real-world projects in **Django, React, and Spring Boot**.  
+I’m passionate about building **secure, scalable web applications** and continuously improving my skills in **software development, networking, and cybersecurity**.  
+Currently focused on:  
+- ⚡ Full-stack development with **Django + React** and **Spring Boot**  
+- 🔐 **Ethical Hacking** & Cybersecurity (Linux, Networking, Pentesting labs)  
+- 🧩 **Problem Solving** on LeetCode & Competitive Programming  
 
 ---
 
-## 🔧 Tech Stack & Skills  
+## 🔧 Tech Stack  
 
-**Languages:**  
+**💻 Languages**  
 - Python | Java | C | C++ | PHP | JavaScript  
 
-**Frameworks & Libraries:**  
+**⚙️ Frameworks & Libraries**  
 - Django | Spring Boot | React | jQuery | AJAX  
 
-**Databases:**  
+**🗄️ Databases**  
 - MySQL | PostgreSQL | SQLite  
 
-**Tools & Platforms:**  
+**🛠️ Tools & Platforms**  
 - Git & GitHub | VS Code | IntelliJ | Postman | Linux (Ubuntu)  
 
-**Other Knowledge:**  
-- Networking & System Administration (Learning)  
+**🌐 Knowledge Areas**  
+- Networking (Learning Advanced Concepts)  
 - Cybersecurity & Ethical Hacking (Learning Roadmap)  
-- Full-stack Web Development (Django + React, Spring Boot)  
+- Full-Stack Web Development  
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🏡 **Real Estate Platform** – Django + React project for property buying, selling, and renting  
-- 🎓 **Student Management System** – Spring Boot + MySQL project with course/subject management  
-- 🔐 **Cybersecurity Learning** – Building personal labs on Linux for hacking & security practice  
+- 🏡 **Real Estate Platform** – Full-stack project (Django + React + MySQL) for property buying, selling, and renting  
+- 🎓 **Student Management System** – Spring Boot + MySQL project for course & subject management  
+- 🔐 **Cybersecurity Labs** – Linux-based labs for ethical hacking & pentesting practice  
+
+---
+
+## 🧩 Competitive Programming  
+
+### 🚀 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/PrakashPandian/?theme=dark&font=Karma&ext=heatmap)  
+
+*(Replace `YOUR-LEETCODE-USERNAME` with your actual LeetCode ID)*  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)  
 
 ---
 
@@ -48,6 +61,8 @@ I’m passionate about building secure, scalable, and innovative software soluti
 - 💼 LinkedIn: [Your LinkedIn Link]  
 - 📧 Email: [Your Email Here]  
 - 📝 Portfolio: [Your Website/Portfolio Here]  
+- 🧑‍💻 LeetCode: [https://leetcode.com/YOUR-LEETCODE-USERNAME/](https://leetcode.com/YOUR-LEETCODE-USERNAME/)  
 
 ---
-⭐️ *Always learning, always building — towards ethical hacking & entrepreneurship.*
+
+⭐ *Always learning, always building — bridging development and cybersecurity.*
