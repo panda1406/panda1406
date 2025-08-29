@@ -50,9 +50,9 @@ Currently focused on:
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panda1406&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panda1406&layout=compact&theme=radical)  
 
 ---
 
@@ -61,7 +61,7 @@ Currently focused on:
 - 💼 LinkedIn: [Your LinkedIn Link]  
 - 📧 Email: [Your Email Here]  
 - 📝 Portfolio: [Your Website/Portfolio Here]  
-- 🧑‍💻 LeetCode: [https://leetcode.com/YOUR-LEETCODE-USERNAME/](https://leetcode.com/YOUR-LEETCODE-USERNAME/)  
+- 🧑‍💻 LeetCode: [https://leetcode.com/YOUR-LEETCODE-USERNAME/](https://leetcode.com/PrakashPandian/)  
 
 ---
 
