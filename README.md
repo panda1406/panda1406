@@ -42,9 +42,9 @@ Currently focused on:
 ## 🧩 Competitive Programming  
 
 ### 🚀 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/PrakashPandian/?theme=dark&font=Karma&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakashpandian/?theme=dark&font=Karma&ext=heatmap)  
 
-*(Replace `YOUR-LEETCODE-USERNAME` with your actual LeetCode ID)*  
+
 
 ---
 
@@ -61,7 +61,7 @@ Currently focused on:
 - 💼 LinkedIn: [Your LinkedIn Link]  
 - 📧 Email: [Your Email Here]  
 - 📝 Portfolio: [Your Website/Portfolio Here]  
-- 🧑‍💻 LeetCode: [https://leetcode.com/YOUR-LEETCODE-USERNAME/](https://leetcode.com/PrakashPandian/)  
+- 🧑‍💻 LeetCode: [https://leetcode.com/prakashpandian/](https://leetcode.com/PrakashPandian/)  
 
 ---
 
